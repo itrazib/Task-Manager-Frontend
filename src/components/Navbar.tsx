@@ -3,6 +3,8 @@ import useAuth from "../hooks/useAuth";
 
 export default function Navbar() {
   const { user, logout } = useAuth();
+  
+ 
   const navigate = useNavigate();
 
   const handleLogout = async () => {

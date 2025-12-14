@@ -11,6 +11,7 @@ type FilterType = "all" | "assigned" | "created" | "overdue";
 
 export default function Dashboard() {
   const { user } = useAuth();
+  console.log(user)
   const queryClient = useQueryClient();
   const [filter, setFilter] = useState<FilterType>("all");
 
