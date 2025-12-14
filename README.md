@@ -1,4 +1,4 @@
-# 🚀 AbleSpace – Collaborative Task Manager (Frontend)
+# 🚀 Collaborative Task Manager (Frontend)
 
 A modern, responsive, real-time collaborative task management dashboard built with **React**, **TypeScript**, and **Tailwind CSS**.  
 This frontend consumes a REST API backend and uses **Socket.io** for live updates and in-app notifications.
