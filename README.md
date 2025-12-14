@@ -75,6 +75,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ablespace-frontend.git
+git clone https://github.com/your-username/task-manager-frontend.git
 cd ablespace-frontend
+npm install
 
